@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💻 Full-stack Developer | Open Source Enthusiast
 ------------------------------------------------
 
-* ✉️  You can contact me at [https://t.me/Marodev](mailto: https://t.me/Marodev)
+* ✉️  You can contact me at https://t.me/Marodev
 * 🧠  I'm currently learning a C++ and SQL
 * 👥  I'm looking to collaborate on intresting project
 
